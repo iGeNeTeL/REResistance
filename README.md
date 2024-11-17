@@ -1,7 +1,7 @@
 # Resident Evil Resistance Tool <br/>(By GeNeTeL جنتل) 
 
 A simple Resident Evil Resistance tool, designed to enhance your experience in the game.
-<br> [Showcase Videos](https://www.youtube.com/watch?v=v0CoG3lNJjQ)
+<br> [Showcase Video](https://www.youtube.com/watch?v=v0CoG3lNJjQ)
 
 ## Features
 - **Completely Free:** :)
